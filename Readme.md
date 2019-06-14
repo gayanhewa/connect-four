@@ -12,3 +12,10 @@ Simple connect 4 game written in Go with a dumb computer player.
 ```
     make run
 ```
+
+### Test and coverage
+
+```
+    make test
+    make test-coverage
+```
